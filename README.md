@@ -11,7 +11,7 @@ A simple React password generator project that allows you to create random passw
 ## Usage
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Apurwa-Rokade/Password_Genrator.git
 cd password-generator-react
 npm install
 npm start
